@@ -21,7 +21,7 @@ layers:
         draw:
             lines:
                 color: yellow
-                width: 2px
+                width: 4px
                 order: 1000
             polygons:
                 order: 900
